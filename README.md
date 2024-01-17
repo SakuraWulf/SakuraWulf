@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SakuraWulf
 - 👀 I’m interested in all things tech, human biology, physiology, and philosophy.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on nothing yet.
+- 🌱 I’m currently learning JavaScript and reading Metabolic by Dr. Robert H. Lustig.
+- 💞️ I’m looking to collaborate on nothing yet, still learning.
 - 📫 How to reach me: Discord: Sakurawulf#0001
 - 😄 Pronouns: Don't tempt me.
 - ⚡ Fun fact: Black is my favorite color. Deal with it.
